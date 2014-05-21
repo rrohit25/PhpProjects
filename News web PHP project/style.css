@@ -1,0 +1,97 @@
+body, li, th, td {
+	font-family: verdana,arial,helvetica,sans-serif;
+	font-size: 95%; 
+}
+
+body { 
+	margin: 0; 
+	background: #FFF;
+	color: #000;
+}
+
+td,th { 
+	color: #000;
+}
+
+img { 
+	border: 0;
+}
+
+a:link    { 
+	color: #009;
+}
+
+a:hover, a:active   {
+	color: red;
+}
+
+a:visited {
+	color: purple;
+}
+
+.quote { 
+	color: green;
+}
+
+.signature {
+	font-size: smaller;
+	color: gray;
+}
+
+.signature a:link    {
+	color: #99F;
+}
+
+.signature a:hover, .signature a:active   {
+	color: #F99; 
+}
+
+.signature a:visited {
+	color: #F6F;
+}
+
+.alisthead {
+	background: #CCC;
+	font-weight: bold;
+	text-align: center;
+}
+
+.even {
+	background: #EEE;
+}
+
+.odd  {
+	background: #DDD;
+}
+
+.grouplistmsgs {
+	text-align: right;
+}
+
+.headerlabel {
+	background: #CCC;
+	font-weight: bold;
+	text-align: right;
+}
+
+.headervalue {
+	background: #EEE;
+}
+
+a.top {
+	text-decoration: none;
+}
+
+table.header {
+    background: #99C;
+	border-bottom: 17px solid #669;
+}
+
+.small {
+    font-size: 75%;
+    text-align: right;
+}
+
+.nav {
+	width: 20%;
+}
